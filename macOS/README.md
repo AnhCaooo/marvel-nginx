@@ -34,7 +34,7 @@ localhost:8080
 ## Documentation
 
 ### Nginx as Web Server 
-See [set up Nginx as web server]:[web-server-docs] if you are interested to use Nginx as web server 
+See [set up Nginx as web server][web-server-docs] if you are interested to use Nginx as web server 
 
 
 ## Authors
